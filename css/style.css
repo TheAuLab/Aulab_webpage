@@ -1389,7 +1389,7 @@ ul.nav.nav-pills {
     padding: 0 0em 5em 0;
 }
 .gallery-top {
-    margin-bottom: 4em;
+    margin-bottom: 1em;
     text-align: center;
 }
 .gallery-top h2 {
@@ -2792,7 +2792,7 @@ td.add-check a {
 
 .view {
    width: 360px;
-   height: 500px;
+   height: 300px;
    margin: 10px;
    float: left;
    overflow: hidden;
@@ -2806,7 +2806,7 @@ td.add-check a {
 }
 .view .mask,.view .content {
    width: 360px;
-   height: 500px;
+   height: 300px;
    position: absolute;
    overflow: hidden;
    top: 0;
