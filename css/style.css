@@ -1,3 +1,9 @@
+.semi-transparent-box {
+  background-color: rgba(255, 255, 255, 0.9); /* White background with 50% opacity */
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: black !important; /* Text remains fully opaque black */
+}
 h4, h5, h6,
 h1, h2, h3 {margin: 0;}
 ul, ol {margin: 0;}
